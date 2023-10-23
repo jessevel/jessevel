@@ -1,6 +1,6 @@
 # Hi, I'm Jessevel!
 
-I am an aspiring data analyst and a recent Google Data Analytics completers. I am an Information Systems graduate who is passionate about using data to solve real-world problems and make a positive impact on the world. Currently , I am pursuing Google Advance Data Analytics to gain more knowledge, xperience and advancement in the field.
+I am a data analyst and a recent Google Data Analytics completer. I am an Information Systems graduate who is passionate about using data to solve real-world problems and make a positive impact on the world. Currently , I am pursuing Google Advance Data Analytics to gain more knowledge, xperience and advancement in the field.
 
 I have experience in *_collecting_*, *_cleaning_*, *_transforming_*, and *_visualizing_* data using descriptive and exploratory data analysis techniques.
 
